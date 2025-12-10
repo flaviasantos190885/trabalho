@@ -4,3 +4,4 @@ transformers
 sentencepiece
 wikipedia
 torch
+tf-keras 
